@@ -1,0 +1,13 @@
+.containerr{
+    width: 60%;
+    margin:5% auto;
+    
+
+}
+a{
+    text-decoration: none;
+}
+.spinnerr{
+    display: flex;
+    justify-content: center;
+}
